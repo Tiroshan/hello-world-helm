@@ -1,0 +1,3 @@
+image:
+  repository: 181454740028.dkr.ecr.us-east-1.amazonaws.com/test/hello-world-flask
+  tag: commit_2b3745f
